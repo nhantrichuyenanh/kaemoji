@@ -11,5 +11,5 @@ Emoticons and some basic kaomojis can easily be typed via your keyboard, but mos
 
 On mobile, there's Gboard that has kaomoji, but not everyone is comfortable with Google collecting data. Other kaomoji keyboard apps don't have the ability to neatly use kaomojis from the keyboard while you're typing like Gboard. Because of this fact, I've been meaning to create an app.
 
-![Demo 1](/demo/demo1)
-![Demo 2](/demo/demo2)
+![Demo 1](demo/demo1.jpg)
+![Demo 2](demo/demo2.jpg)
