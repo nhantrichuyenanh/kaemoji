@@ -1,6 +1,6 @@
 Emojis are deeply flawed. They:
 - lack a lot of emotional cue ("Ok 🙂" are you being sarcastic? passive-aggressive? annoyed?),
-- change meanings depending on who you're texting to (what does 😭 even mean at this point?)
+- change meanings depending on who you're texting to (gen Z uses 😭 for everything)
 - look different on each platform,
 - have too many Japanese-American (💹 why only Yen? most mailboxes around the world don't look like 📫) and lack of other countries' cultural symbols and references (where are emojis for Vietnamese _bánh mì_, Indian _sari_, or Mayan _Chichén Itzá_?),
 - are a product of Silicon Valley (American tech companies corportize emojis by making them have big eyes, big mouth, and yellow skin).
